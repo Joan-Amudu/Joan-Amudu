@@ -1,5 +1,6 @@
 ### Hi there 👋 
-![IMG_4679](https://user-images.githubusercontent.com/53842436/118854390-f94bbd00-b8d4-11eb-9e19-657818cc29da.JPG)
+![Chamonix](https://user-images.githubusercontent.com/53842436/118855290-e8e81200-b8d5-11eb-9816-ae4259debd50.jpg)
+Mt.Blanc - Chamonix
 
 <!--
 **Joan-Amudu/Joan-Amudu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
