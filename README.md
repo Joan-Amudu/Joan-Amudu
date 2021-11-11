@@ -4,8 +4,8 @@ Mt.Blanc - Chamonix
 # Welcome to my page!
 
 
-- 🔭 I’m currently working on a JavaScript Memory Game
-- 🌱 I’m currently learning JavaScript
+- 🔭 I’m currently working on a a Full stack Farm shop
+- 🌱 I’m currently learning Python and Djnago
 - 👯 I’m looking to collaborate on Frontend Projects
 - 🤔 I’m looking for help with Java programming
 - 💬 Ask me about anything
