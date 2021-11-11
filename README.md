@@ -1,5 +1,4 @@
-![Chamonix](https://user-images.githubusercontent.com/53842436/118855290-e8e81200-b8d5-11eb-9816-ae4259debd50.jpg)
-Mt.Blanc - Chamonix
+
 
 # Welcome to my page!
 
