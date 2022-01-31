@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on a a Full stack Farm shop
-- 🌱 I’m currently learning Python and Djnago
+- 🌱 I’m currently learning Python and Django
 - 👯 I’m looking to collaborate on Frontend Projects
 - 🤔 I’m looking for help with Java programming
 - 💬 Ask me about anything
