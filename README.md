@@ -4,9 +4,9 @@
 
 
 - 🔭 I’m currently working on a a Full stack Farm shop
-- 🌱 I’m currently learning Python and Django
+- 🌱 I’m currently continuing to learn Python and Django
 - 👯 I’m looking to collaborate on Frontend Projects
-- 🤔 I’m looking for help with Java programming
+- 🤔 I’m looking for help with Backend development
 - 💬 Ask me about anything
 - 📫 How to reach me: LinkedIn: [Joan Amudu](www.linkedin.com/in/joan-amudu)
 - 😄 Pronouns: She/Her
