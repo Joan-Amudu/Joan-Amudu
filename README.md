@@ -10,4 +10,4 @@
 - 📫 How to reach me: LinkedIn: [Joan Amudu](www.linkedin.com/in/joan-amudu)
 - ⚡ Fun fact: I love traveling.
 
-[![Joan's current GitHub stats](https://github-readme-stats.vercel.app/api?username=Joan-Amudu)](https://github.com/Joan-Amudu/github-readme-stats)
+
